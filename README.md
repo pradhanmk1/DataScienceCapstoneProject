@@ -1,9 +1,9 @@
-#Data Science Capstone Project: Word Prediction
+# Data Science Capstone Project: Word Prediction
 
 This README file describes the algorithm and all files necessary to satisfy the shinyApps requirement for the Data Science Capstone final 
 project.
 
-###Project Requirements
+### Project Requirements
 
 The goal of this exercise is to create a product to highlight the prediction algorithm that you have built and to provide an interface that can be accessed by others. 
 For this project you must submit:
@@ -12,13 +12,13 @@ For this project you must submit:
 *  A slide deck consisting of no more than 5 slides created with R Studio Presenter pitching your algorithm and app as if you were presenting to your boss or an investor.
    This repository contains all the files necessary to satisfy the shinyApps requirement
 
-###SwiftKey Data
+### SwiftKey Data
 
 The data is from a corpus called HC Corpora (www.corpora.heliohost.org). 
 In this capstone we will be applying data science in the area of natural language processing. 
 The data used for this project can be accessed [here](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip)
 
-###Repository Files
+### Repository Files
 
 *  prepareData.R: this file takes the raw data and creates the file 'NGramSortedFinal.txt'
 *  NGramSortedFinal.txt: contains four concatenated tables and the associated NGram counts
